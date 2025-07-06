@@ -1,0 +1,11 @@
+name: ledger
+description: Historical ledger of generation sessions and artifacts
+type: ledger
+remotes:
+  origin: https://github.com/jazzydog-labs/ledger.git
+integration_quality:
+  documentation_completeness: good
+  bom_integration: complete
+  context_file_coverage: good
+  last_updated: "2025-01-27"
+  notes: "Historical tracking and artifact storage for the foundry ecosystem" 
